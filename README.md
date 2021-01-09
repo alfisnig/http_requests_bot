@@ -1,1 +1,2 @@
-# http_requests_bot
+# http requests bot
+Бот нужен для получения html кода ответа в формате .txt на отправленный ему запрос (get, post).
